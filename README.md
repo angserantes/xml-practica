@@ -107,5 +107,5 @@ Para iniciar la práctica de esta unidad formativa seguimos los siguientes pasos
 10. En el cuarto caso, nos encontramos con un espacio en la etiqueta y no está permitido.
 11. En el quinto caso, hay atributos repetidos.
 12. En el sexto caso las etiquetas necesitan tener un nombre.
-13. En el séptimo caso el carácter <  sólo puede utilizarse para la apertura de la etiqueta entonces se sustituye por su valor "v&lt;"
+13. En el séptimo caso el carácter <  sólo puede utilizarse para la apertura de la etiqueta.
 14. Podemos consultar las dudas en la siguiente web: <https://www.mclibre.org/consultar/xml/ejercicios/documentos-bien-formados.html>
