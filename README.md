@@ -101,4 +101,11 @@ Para iniciar la práctica de esta unidad formativa seguimos los siguientes pasos
 4. En los archivos de este repositorio se muestra el código en XML bien realizado.
 5. El programa que utilizamos nos ayuda a detectar los errores, además nos permite validar el código y nos muestra donde están los errores.
 6. En estos casos nos econtramos con errores de sintaxis en los que faltan etiquetas raíz, hay etiquetas sueltas, faltan etiquetas de cierre, hay espacios en los nombres de las etiquetas, atributos repetidos o carácteres mal escritos.
-7. Podemos consultar las dudas en la siguiente web: https://www.mclibre.org/consultar/xml/ejercicios/documentos-bien-formados.html
+7. En el primer caso nos encontamos que la etiqueta <deportista> no está cerrada y los términos Atletismo y Natación están sueltos.
+8. En el segundo caso nos encontramos que no hay una etiqueta raíz y falta una etiqueta de cierre en <autor> hay que añadir la etiqueta de cierre con la barra.
+9. En el tercer caso las etiquetas de apertura y cierre están mal y no se permiten los caracteres ://
+10. En el cuarto caso, nos encontramos con un espacio en la etiqueta y no está permitido.
+11. En el quinto caso, hay atributos repetidos.
+12. En el sexto caso las etiquetas necesitan tener un nombre.
+13. En el séptimo caso el carácter <  sólo puede utilizarse para la apertura de la etiqueta entonces se sustituye por su valor v&lt;
+14. Podemos consultar las dudas en la siguiente web: <https://www.mclibre.org/consultar/xml/ejercicios/documentos-bien-formados.html>
